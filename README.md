@@ -121,21 +121,14 @@ flutter build linux
 
 ## Screenshots
 
-Add screenshots of the application here:
+### Home Screen
 
-```text
-screenshots/
-├── home.png
-├── quiz.png
-└── result.png
-```
+![Home Screen](Final_Output/Home%20Screen.png)
 
-Then add them to this section:
+### Quiz Screen
 
-```markdown
-![Home Screen](Final_Output/home.png)
+![Quiz Screen](Final_Output/Quiz%20Screen.png)
 
-![Quiz Screen](Final_Output/quiz.png)
+### Result Screen
 
-![Result Screen](Final_Output/result.png)
-```
+![Result Screen](Final_Output/Result%20Screen.png)
