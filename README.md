@@ -1,24 +1,27 @@
-Quiz App – Flutter
+# Quiz App – Flutter
 
-A simple and interactive Quiz Application built with Flutter and Dart. The app allows users to answer multiple-choice questions, navigate through a quiz, and view their final results.
+A simple and interactive **Quiz Application** built with Flutter and Dart. The app allows users to answer multiple-choice questions, navigate through a quiz, and view their final results.
 
-This project was developed to practice Flutter fundamentals, UI development, widgets, state management, and application navigation.
+## Features
 
-Features
-🧠 Interactive multiple-choice quiz
-📝 Question and answer interface
-📊 Score calculation
-📱 Responsive Flutter UI
-🔄 Quiz navigation and restart functionality
-🎨 Clean and simple user interface
-🌐 Cross-platform Flutter project
-🖼️ Custom application assets
-Tech Stack
-Flutter – UI framework
-Dart – Programming language
-Material Design – UI components
-Android / iOS / Web / Desktop – Supported Flutter platforms
-Project Structure
+- 🧠 Interactive multiple-choice quiz
+- 📝 Question and answer interface
+- 📊 Score calculation
+- 📱 Responsive Flutter UI
+- 🔄 Quiz navigation and restart functionality
+- 🎨 Clean and simple user interface
+- 🌐 Cross-platform Flutter project
+- 🖼️ Custom application assets
+
+## Tech Stack
+
+- **Flutter** – UI framework
+- **Dart** – Programming language
+- **Material Design** – UI components
+
+## Project Structure
+
+```text
 Quiz-App-Flutter/
 │
 ├── android/              # Android-specific files
@@ -36,56 +39,103 @@ Quiz-App-Flutter/
 │
 ├── test/                 # Flutter tests
 │
-├── pubspec.yaml          # Project configuration and dependencies
+├── pubspec.yaml          # Project configuration
 ├── analysis_options.yaml # Dart analysis configuration
 └── README.md             # Project documentation
-Getting Started
-Prerequisites
+```
+
+## Getting Started
+
+### Prerequisites
 
 Make sure you have the following installed:
 
-Flutter SDK
-Dart SDK
-Android Studio or Visual Studio Code
-An Android/iOS emulator or physical device
+- Flutter SDK
+- Dart SDK
+- Android Studio or Visual Studio Code
+- Android/iOS emulator or physical device
 
-Check your Flutter installation with:
+Check your Flutter installation:
 
+```bash
 flutter doctor
-Installation
-Clone the repository:
+```
+
+### Installation
+
+1. Clone the repository:
+
+```bash
 git clone https://github.com/YashSodaye/Quiz-App-Flutter.git
-Navigate to the project directory:
+```
+
+2. Navigate to the project:
+
+```bash
 cd Quiz-App-Flutter
-Install the required dependencies:
+```
+
+3. Install dependencies:
+
+```bash
 flutter pub get
-Run the application:
+```
+
+4. Run the application:
+
+```bash
 flutter run
-Building the Application
-Android
+```
 
-Build a release APK:
+## Building the Application
 
+### Android
+
+```bash
 flutter build apk --release
-Web
+```
+
+### Web
+
+```bash
 flutter build web
-Windows
+```
+
+### Windows
+
+```bash
 flutter build windows
-macOS
+```
+
+### macOS
+
+```bash
 flutter build macos
-Linux
+```
+
+### Linux
+
+```bash
 flutter build linux
-Screenshots
+```
 
-Add screenshots of the application here to showcase the UI.
+## Screenshots
 
+Add screenshots of the application here:
+
+```text
 screenshots/
 ├── home.png
 ├── quiz.png
 └── result.png
+```
 
-Then display them in the README using:
+Then add them to this section:
 
+```markdown
 ![Home Screen](Final_Output/home.png)
+
 ![Quiz Screen](Final_Output/quiz.png)
+
 ![Result Screen](Final_Output/result.png)
+```
