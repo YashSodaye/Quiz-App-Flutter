@@ -118,17 +118,16 @@ flutter build macos
 ```bash
 flutter build linux
 ```
-
 ## Screenshots
 
 ### Home Screen
 
-![Home Screen](Final_Output/Home%20Screen.png)
+![Home Screen](Final_Output/1.png)
 
 ### Quiz Screen
 
-![Quiz Screen](Final_Output/Quiz%20Screen.png)
+![Quiz Screen](Final_Output/2.png)
 
 ### Result Screen
 
-![Result Screen](Final_Output/Result%20Screen.png)
+![Result Screen](Final_Output/3.png)
